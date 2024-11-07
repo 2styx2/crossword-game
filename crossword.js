@@ -100,7 +100,6 @@ function shuffle(array) {
   }
 }
 
-// Used like so
 let arr = ["dad", "dog", "cat", "bat", "batteg"];
 crossword(arr, 4);
 
